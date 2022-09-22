@@ -1,5 +1,5 @@
 # Adelya Ibragimova
-![photo](/rsschool-cv/photo.jpeg/"фото")
+![photo](/photo.jpeg/"фото")
 ## Contacts
 + E-mail: adelina.30stm@inbox.ru
 + City: Izmir, Turkey
