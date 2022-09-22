@@ -1,5 +1,4 @@
 # Adelya Ibragimova
-![photo](/photo.jpeg/ "фото")
 ## Contacts
 + E-mail: adelina.30stm@inbox.ru
 + City: Izmir, Turkey
